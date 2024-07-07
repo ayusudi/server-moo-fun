@@ -1,6 +1,6 @@
 # Server MOO FUN 
 
-![Postman API](https://documenter.getpostman.com/view/10019806/2sA3e1BAAz)
+[Postman API Documentation](https://documenter.getpostman.com/view/10019806/2sA3e1BAAz)
 
 ## ENV Template 
 ```
